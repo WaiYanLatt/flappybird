@@ -14,6 +14,8 @@ body{
     height: 500px;
     margin: auto;
     overflow: hidden;
+    background-image: url(./img/city.gif);
+
 }
 #block{
     width: 50px;
@@ -30,15 +32,15 @@ body{
 #hole{
     width: 50px;
     height: 150px;
-    background-color: #114350;
+    background-color:#b1ddf8;
     position: relative;
     left: 400px;
     top: -500px;
     animation: block 2s infinite linear;
 }
 #character{
-    width: 20px;
-    height: 20px;
+    width: 35px;
+    height: 35px;
     background-image: url(./img/bird.png);
     position: absolute;
     top: 100px;
