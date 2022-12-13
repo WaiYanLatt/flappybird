@@ -39,8 +39,8 @@ body{
 #character{
     width: 20px;
     height: 20px;
-    background-color: skyblue;
+    background-image: url(./img/bird.png);
     position: absolute;
     top: 100px;
-    border-radius: 50%;
+    background-size: cover;
 }
